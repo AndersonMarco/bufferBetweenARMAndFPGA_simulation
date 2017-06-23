@@ -1,0 +1,177 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/simulation/modelsim
+vclockgen_fake
+Z1 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z2 !s110 1498212266
+!i10b 1
+!s100 F`54cB6ff<zI`nd12:aVV1
+IFVZkFh^ATA0Ach6Jej@[d2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+!s105 clockgen_fake_sv_unit
+S1
+R0
+w1498210176
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/clockgen_fake.sv
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/clockgen_fake.sv
+L0 2
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1498212266.000000
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/clockgen_fake.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/clockgen_fake.sv|
+!i113 1
+Z6 o-sv -work work
+Z7 !s92 -sv -work work +incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation
+Z8 tCvgOpt 0
+vfillBuffer
+Z9 !s110 1498212265
+!i10b 1
+!s100 QgEV9[mCUomzhaMiAYRC73
+INLBYCzkljCbhWLFS>8FcD0
+R3
+R0
+w1497154516
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/fillBuffer.v
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/fillBuffer.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z10 !s108 1498212265.000000
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/fillBuffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/fillBuffer.v|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work +incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation
+R8
+nfill@buffer
+vmain
+R9
+!i10b 1
+!s100 D4W:[DMjzk<W1jR1GI55G0
+IiX42CBB[I1_G]C6FBWNM83
+R3
+R0
+w1498212065
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/main.v
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/main.v
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/main.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/main.v|
+!i113 1
+R11
+R12
+R8
+vprocessBuffer
+Z13 !s110 1498212264
+!i10b 1
+!s100 i=1]IMNNO<@@CQ[?>RUN[1
+I>;o`J:0@7TV@ziG;cGiX=3
+R3
+R0
+w1498210243
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/processBuffer.v
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/processBuffer.v
+L0 1
+R4
+r1
+!s85 0
+31
+Z14 !s108 1498212264.000000
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/processBuffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/processBuffer.v|
+!i113 1
+R11
+R12
+R8
+nprocess@buffer
+vSdRambuffer
+R13
+!i10b 1
+!s100 NKYXB7W>8XfZRo6];kS0G2
+I5_7c`>;AZnIV[Z]Rkdk]N0
+R3
+R0
+w1496905224
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/SdRambuffer.v
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/SdRambuffer.v
+L0 40
+R4
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/SdRambuffer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/SdRambuffer.v|
+!i113 1
+R11
+R12
+R8
+n@sd@rambuffer
+vsendDataToFillbuffer_fake
+R1
+R9
+!i10b 1
+!s100 :32N@8ACK8m<Qcm=THf:@2
+ICOHA^OCfB]?M[Nl3SClHd3
+R3
+!s105 sendDataToFillbuffer_fake_sv_unit
+S1
+R0
+w1497238614
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/sendDataToFillbuffer_fake.sv
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/sendDataToFillbuffer_fake.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/sendDataToFillbuffer_fake.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/sendDataToFillbuffer_fake.sv|
+!i113 1
+R6
+R7
+R8
+nsend@data@to@fillbuffer_fake
+vsimulation_tb
+R1
+R2
+!i10b 1
+!s100 9XnY[E1U<OIBMn?ePjRkW1
+IZP_3OX>P8Q[ALhAkkP6fe1
+R3
+!s105 simulation_tb_sv_unit
+S1
+R0
+w1498211672
+8C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/simulation_tb.sv
+FC:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/simulation_tb.sv
+L0 2
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/simulation_tb.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation|C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGA_simulation/simulation_tb.sv|
+!i113 1
+R6
+R7
+R8

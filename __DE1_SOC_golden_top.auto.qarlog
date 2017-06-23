@@ -1,0 +1,43 @@
+Quartus Prime Archive log --	C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/__DE1_SOC_golden_top.auto.qarlog
+
+Archive:	C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/__DE1_SOC_golden_top.auto.qar
+Date:		Fri Jun 23 06:16:08 2017
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/db/DE1_SOC_golden_top.cbx.xml
+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/db/altsyncram_68m2.tdf
+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/db/bufferBetweenARMAndFPGAV2_simulation.qpf
+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/db/measureTime.cbx.xml
+C:/Users/kite/Documents/programacao/quartus/bufferBetweenARMAndFPGAV2_simulation/hc_output/HPS_LED_HEX.names_drv_tbl
+DE1_SOC_golden_top.flow.rpt
+DE1_SOC_golden_top.map.rpt
+DE1_SOC_golden_top.map.summary
+DE1_SOC_golden_top.qsf
+PLLJ_PLLSPE_INFO.txt
+SdRambuffer.qip
+SdRambuffer.v
+SdRambuffer_bb.v
+__DE1_SOC_golden_top.auto.qarlog
+assignment_defaults.qdf
+c5_pin_model_dump.txt
+clock_gen.sv
+fillBuffer.v
+hps_0.h
+hps_sdram_p0_all_pins.txt
+measureTime.sdc
+measureTime.v
+measureTime_assignment_defaults.qdf
+measureTime_description.txt
+measureTime_tmp_archive.qarlog
+processBuffer.v
+reciveAndSendMessage.v
+sendDataToFillbuffer_fake.sv
+simulation_tb.sv
+soc_system.bsf
+soc_system.qsys
+soc_system_old.qsys
+	======= Total: 32 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
